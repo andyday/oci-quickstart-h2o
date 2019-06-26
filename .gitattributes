@@ -1,0 +1,6 @@
+*.md    export-ignore
+LICENSE export-ignore
+images/ export-ignore
+.git*   export-ignore
+
+
